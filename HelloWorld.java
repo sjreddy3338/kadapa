@@ -3,6 +3,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("Hello, Kadapa");
     System.out.Println("Hello, bangore");
-    System.out.println("hello, hydrabad");
+    System.out.println("Hello, hydrabad");
   }
 }
